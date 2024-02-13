@@ -3,6 +3,9 @@ subjects covered:
   -access modifiers
   -constructs
   -class methods
+  -encapsulation
+  -abstraction
+  -inheritance
 
 Create a program to receive data input from employees. The program should receive and then display:
   -name
